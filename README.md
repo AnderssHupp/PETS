@@ -32,4 +32,4 @@
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/PetWorld.git
+git clone https://github.com/AnderssHupp/PetWorld.git
