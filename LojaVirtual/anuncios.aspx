@@ -40,7 +40,7 @@
             gap: 12px;
             margin: 20px auto;
         }
-        /* Botão de pesquisa */
+
         .btn-pesquisa {
             padding: 8px 16px;
             margin-left: 8px;
@@ -81,7 +81,6 @@
             cursor: pointer;
         }
 
-        /* Paginação */
         .pagination {
             display: flex;
             justify-content: center;

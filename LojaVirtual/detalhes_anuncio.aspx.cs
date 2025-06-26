@@ -73,13 +73,8 @@ namespace LojaVirtual
                 lbl_local.Text = reader["localidade"].ToString();
                 lbl_preco.Text = Convert.ToDecimal(reader["preco"]).ToString("N2");
 
-                //if (reader["foto"] != DBNull.Value)
-                //{
-                //    byte[] imagemBytes = (byte[])reader["foto"];
-                //    string base64 = Convert.ToBase64String(imagemBytes);
-                //    imgPet.ImageUrl = "data:image/jpeg;base64," + base64;
-                //}
-                int id_pet = Convert.ToInt32(reader["id_pet"]); // método abaixo
+              
+                int id_pet = Convert.ToInt32(reader["id_pet"]); 
                 if (id_pet > 0)
                 {
                     CarregarFotosCarousel(id_anuncio);
@@ -180,7 +175,7 @@ namespace LojaVirtual
             if (respostaSP == -1)
                 ScriptManager.RegisterStartupScript(this, GetType(), "msg", "alert('Já se candidatou a este anúncio.'); fecharModal();", true);
             else
-                ScriptManager.RegisterStartupScript(this, GetType(), "msg", "alert('✅ Candidatura enviada com sucesso.'); fecharModal();", true);
+                ScriptManager.RegisterStartupScript(this, GetType(), "msg", "alert('Candidatura enviada com sucesso.'); fecharModal();", true);
 
             tb_msg.Text = "";
 

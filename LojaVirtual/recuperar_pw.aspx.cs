@@ -89,7 +89,7 @@ namespace LojaVirtual
 
             try
             {
-                email.From = new MailAddress("andersson.hupp.31591@formandos.cinel.pt");
+                email.From = new MailAddress("YourEmail@email.com");
 
                 email.To.Add(tb_email.Text);
 
@@ -102,7 +102,7 @@ namespace LojaVirtual
                 servidor.Host = "smtp-mail.outlook.com"; //smtp.office365.com
                 servidor.Port = 587;
 
-                servidor.Credentials = new NetworkCredential("andersson.hupp.31591@formandos.cinel.pt", "@Cerveja24");
+                servidor.Credentials = new NetworkCredential("YourEmail@email.com", "YourPassword");
 
                 servidor.EnableSsl = true;
 

@@ -62,14 +62,9 @@ namespace LojaVirtual
 
         protected void btn_voltar_Click(object sender, EventArgs e)
         {
-
             panel_step2_cliente.Visible = false;
             panel_step2_prestador.Visible = false;
-
-
             panel_step1.Visible = true;
-
-
             rbl_tipoConta.ClearSelection();
         }
 
@@ -310,7 +305,7 @@ namespace LojaVirtual
 
             try
             {
-                email.From = new MailAddress("andersson.hupp.31591@formandos.cinel.pt");
+                email.From = new MailAddress("yourEmail@email.com");
 
                 //email.To.Add(tb_email.Text); //diferença entre ambos e que o to pode ser para varios destinatarios
 
@@ -323,7 +318,7 @@ namespace LojaVirtual
                 servidor.Host = "smtp-mail.outlook.com"; //smtp.office365.com
                 servidor.Port = 587;
 
-                servidor.Credentials = new NetworkCredential("andersson.hupp.31591@formandos.cinel.pt", "P@ssword");
+                servidor.Credentials = new NetworkCredential("yourEmail@email.com", "YourP@ssword");
 
                 servidor.EnableSsl = true;
 

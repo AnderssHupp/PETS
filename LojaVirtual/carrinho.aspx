@@ -38,22 +38,7 @@
             justify-content: center;
             gap: 5px;
         }
-
-        /*  .btn {
-            width: 100%;
-            padding: 12px;
-            margin: 12px 0;
-            background-color: #28a745;
-            color: white;
-            border: none;
-            border-radius: 8px;
-            cursor: pointer;
-            transition: background-color 0.3s;
-        }
-
-            .btn:hover {
-                background-color: #218838;
-            }*/
+     
 
         h1 {
             text-align: center;

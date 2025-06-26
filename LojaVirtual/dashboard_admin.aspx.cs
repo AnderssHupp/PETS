@@ -56,7 +56,6 @@ namespace LojaVirtual
             panelProdutos.Visible = false;
             panelAvaliacoes.Visible = false;
             panelSuporte.Visible = false;
-
             painelAtivo.Visible = true;
         }
 
@@ -141,9 +140,7 @@ namespace LojaVirtual
                 }
 
             }
-
             CarregarUtilizadores();
-
         }
 
         protected void CarregarUtilizadores()
@@ -257,13 +254,6 @@ namespace LojaVirtual
             CarregarUtilizadores();
         }
 
-        //protected void lv_produtos_PagePropertiesChanging(object sender, PagePropertiesChangingEventArgs e)
-        //{
-        //    DataPager2.SetPageProperties(e.StartRowIndex, e.MaximumRows, false);
-        //    lv_produtos.EditIndex = -1;
-        //    CarregarProdutos();
-        //}
-
         public int PaginaAtual
         {
             get => ViewState["PaginaAtual"] != null ? (int)ViewState["PaginaAtual"] : 0;
@@ -275,7 +265,7 @@ namespace LojaVirtual
         protected void lv_produtos_ItemEditing(object sender, ListViewEditEventArgs e)
         {
             lv_produtos.EditIndex = e.NewEditIndex;
-            CarregarProdutos(); // método que você deve usar para recarregar os dados do ListView
+            CarregarProdutos(); // metodo que você deve usar para recarregar os dados do ListView
         }
 
         protected void lv_produtos_ItemCanceling(object sender, ListViewCancelEventArgs e)
@@ -337,11 +327,7 @@ namespace LojaVirtual
         {
             Session.Clear();
             Session.Abandon();
-
-            // Encerrar a autenticação com Google (caso esteja autenticado)
             HttpContext.Current.GetOwinContext().Authentication.SignOut();
-
-
             Response.Redirect("login.aspx");
         }
     }

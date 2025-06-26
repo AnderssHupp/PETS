@@ -22,12 +22,10 @@ namespace LojaVirtual
 
             if (!IsPostBack)  // garante que o Repeater so e carregado na primeira vez
             {
-
                 CarregarCarrinho();
                 AtualizarTotal();
             }
         }
-
 
         protected void Repeater1_ItemCommand(object source, RepeaterCommandEventArgs e)
         {
@@ -47,7 +45,6 @@ namespace LojaVirtual
             }
 
             CarregarCarrinho();
-            //Repeater1.DataBind();
             AtualizarTotal();
         }
         private void CarregarCarrinho()

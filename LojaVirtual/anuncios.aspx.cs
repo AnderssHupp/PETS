@@ -16,12 +16,7 @@ namespace LojaVirtual
         public string id_anuncio;
         protected void Page_Load(object sender, EventArgs e)
         {
-            //if (Session["user_id"] == null || Convert.ToInt32(Session["cod_perfil"]) == 2)
-            //{
-            //    Response.Redirect("login.aspx");
-            //}
-
-            //Session["user_id"] = 3;
+            
             if (!IsPostBack)
             {
                 CarregarTipoServicos();

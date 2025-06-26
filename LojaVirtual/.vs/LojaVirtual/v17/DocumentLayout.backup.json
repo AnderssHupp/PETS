@@ -1,114 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\",
+  "WorkspaceRootPath": "C:\\Users\\thoma\\OneDrive\\\u00C1rea de Trabalho\\LojaVirtual\\LojaVirtual\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|c:\\users\\ander\\desktop\\programa\u00E7\u00E3ocinel\\lojavirtual\\lojavirtual\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|solutionrelative:lojavirtual\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|c:\\users\\ander\\desktop\\programa\u00E7\u00E3ocinel\\lojavirtual\\lojavirtual\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|solutionrelative:lojavirtual\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|c:\\users\\ander\\desktop\\programa\u00E7\u00E3ocinel\\lojavirtual\\lojavirtual\\servicos\\servicoslembretes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|solutionrelative:lojavirtual\\servicos\\servicoslembretes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|c:\\users\\ander\\desktop\\programa\u00E7\u00E3ocinel\\lojavirtual\\lojavirtual\\detalhes_anuncio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|solutionrelative:lojavirtual\\detalhes_anuncio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|c:\\users\\ander\\desktop\\programa\u00E7\u00E3ocinel\\lojavirtual\\lojavirtual\\detalhes_anuncio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|C:\\Users\\thoma\\OneDrive\\\u00C1rea de Trabalho\\LojaVirtual\\LojaVirtual\\lojavirtual\\detalhes_anuncio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|solutionrelative:lojavirtual\\detalhes_anuncio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\lojavirtual\\anuncios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|solutionrelative:lojavirtual\\anuncios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|C:\\Users\\thoma\\OneDrive\\\u00C1rea de Trabalho\\LojaVirtual\\LojaVirtual\\LojaVirtual\\detalhes_anuncio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|solutionrelative:LojaVirtual\\detalhes_anuncio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\lojavirtual\\anuncios.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|C:\\Users\\thoma\\OneDrive\\\u00C1rea de Trabalho\\LojaVirtual\\LojaVirtual\\lojavirtual\\detalhe_produto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|solutionrelative:lojavirtual\\detalhe_produto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|c:\\users\\thoma\\onedrive\\\u00E1rea de trabalho\\lojavirtual\\lojavirtual\\lojavirtual\\anuncios.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|solutionrelative:lojavirtual\\anuncios.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\lojavirtual\\dashboard_prestador.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|solutionrelative:lojavirtual\\dashboard_prestador.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|C:\\Users\\thoma\\OneDrive\\\u00C1rea de Trabalho\\LojaVirtual\\LojaVirtual\\lojavirtual\\anuncios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|solutionrelative:lojavirtual\\anuncios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|c:\\users\\ander\\desktop\\programa\u00E7\u00E3ocinel\\lojavirtual\\lojavirtual\\dashboard_prestador.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|solutionrelative:lojavirtual\\dashboard_prestador.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|C:\\Users\\thoma\\OneDrive\\\u00C1rea de Trabalho\\LojaVirtual\\LojaVirtual\\lojavirtual\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|solutionrelative:lojavirtual\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\lojavirtual\\dashboard_admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|solutionrelative:lojavirtual\\dashboard_admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\lojavirtual\\dashboard_cliente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|solutionrelative:lojavirtual\\dashboard_cliente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\lojavirtual\\perfil.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|solutionrelative:lojavirtual\\perfil.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\lojavirtual\\dashboard_cliente.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|solutionrelative:lojavirtual\\dashboard_cliente.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\lojavirtual\\perfil.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|solutionrelative:lojavirtual\\perfil.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\lojavirtual\\chat.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|solutionrelative:lojavirtual\\chat.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\lojavirtual\\chat.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|solutionrelative:lojavirtual\\chat.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\lojavirtual\\criar_conta.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|solutionrelative:lojavirtual\\criar_conta.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\lojavirtual\\criar_conta.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|solutionrelative:lojavirtual\\criar_conta.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\lojavirtual\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|solutionrelative:lojavirtual\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\lojavirtual\\inserir_pet.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|solutionrelative:lojavirtual\\inserir_pet.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\lojavirtual\\prestadores.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|solutionrelative:lojavirtual\\prestadores.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\lojavirtual\\ativacao_conta.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|C:\\Users\\thoma\\OneDrive\\\u00C1rea de Trabalho\\LojaVirtual\\LojaVirtual\\lojavirtual\\ativacao_conta.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|solutionrelative:lojavirtual\\ativacao_conta.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\lojavirtual\\inserir_produtos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|solutionrelative:lojavirtual\\inserir_produtos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\lojavirtual\\criar_anuncio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|solutionrelative:lojavirtual\\criar_anuncio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\lojavirtual\\prestadores.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|solutionrelative:lojavirtual\\prestadores.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\lojavirtual\\criar_anuncio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|solutionrelative:lojavirtual\\criar_anuncio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\lojavirtual\\dashboard_admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|solutionrelative:lojavirtual\\dashboard_admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|C:\\Users\\thoma\\OneDrive\\\u00C1rea de Trabalho\\LojaVirtual\\LojaVirtual\\lojavirtual\\scss\\bootstrap\\_carousel.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}|LojaVirtual\\LojaVirtual.csproj|solutionrelative:lojavirtual\\scss\\bootstrap\\_carousel.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,396 +42,107 @@
       "DocumentGroups": [
         {
           "DockedWidth": 450,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{605322a2-17ae-43f4-b60f-766556e46c87}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "login.aspx",
-              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\login.aspx",
-              "RelativeDocumentMoniker": "LojaVirtual\\login.aspx",
-              "ToolTip": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\login.aspx",
-              "RelativeToolTip": "LojaVirtual\\login.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-11T16:00:32.404Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ServicosLembretes.cs",
-              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\Servicos\\ServicosLembretes.cs",
-              "RelativeDocumentMoniker": "LojaVirtual\\Servicos\\ServicosLembretes.cs",
-              "ToolTip": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\Servicos\\ServicosLembretes.cs",
-              "RelativeToolTip": "LojaVirtual\\Servicos\\ServicosLembretes.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:55:36.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\Startup.cs",
-              "RelativeDocumentMoniker": "LojaVirtual\\Startup.cs",
-              "ToolTip": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\Startup.cs",
-              "RelativeToolTip": "LojaVirtual\\Startup.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:54:50.328Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "detalhes_anuncio.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\detalhes_anuncio.aspx.cs",
-              "RelativeDocumentMoniker": "LojaVirtual\\detalhes_anuncio.aspx.cs",
-              "ToolTip": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\detalhes_anuncio.aspx.cs",
-              "RelativeToolTip": "LojaVirtual\\detalhes_anuncio.aspx.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAowCsAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:43:17.407Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "detalhes_anuncio.aspx",
-              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\detalhes_anuncio.aspx",
-              "RelativeDocumentMoniker": "LojaVirtual\\detalhes_anuncio.aspx",
-              "ToolTip": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\detalhes_anuncio.aspx",
-              "RelativeToolTip": "LojaVirtual\\detalhes_anuncio.aspx",
+              "Title": "detalhe_produto.aspx",
+              "DocumentMoniker": "C:\\Users\\thoma\\OneDrive\\\u00C1rea de Trabalho\\LojaVirtual\\LojaVirtual\\LojaVirtual\\detalhe_produto.aspx",
+              "RelativeDocumentMoniker": "LojaVirtual\\detalhe_produto.aspx",
+              "ToolTip": "C:\\Users\\thoma\\OneDrive\\\u00C1rea de Trabalho\\LojaVirtual\\LojaVirtual\\LojaVirtual\\detalhe_produto.aspx",
+              "RelativeToolTip": "LojaVirtual\\detalhe_produto.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-11T15:43:01.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "perfil.aspx",
-              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\perfil.aspx",
-              "RelativeDocumentMoniker": "LojaVirtual\\perfil.aspx",
-              "ToolTip": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\perfil.aspx",
-              "RelativeToolTip": "LojaVirtual\\perfil.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-07T20:19:29.57Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "perfil.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\perfil.aspx.cs",
-              "RelativeDocumentMoniker": "LojaVirtual\\perfil.aspx.cs",
-              "ToolTip": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\perfil.aspx.cs",
-              "RelativeToolTip": "LojaVirtual\\perfil.aspx.cs",
-              "ViewState": "AgIAAMwAAAAAAAAAAAAawFoAAABwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T20:06:06.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "criar_conta.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\criar_conta.aspx.cs",
-              "RelativeDocumentMoniker": "LojaVirtual\\criar_conta.aspx.cs",
-              "ToolTip": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\criar_conta.aspx.cs",
-              "RelativeToolTip": "LojaVirtual\\criar_conta.aspx.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T13:32:14.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "prestadores.aspx",
-              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\prestadores.aspx",
-              "RelativeDocumentMoniker": "LojaVirtual\\prestadores.aspx",
-              "ToolTip": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\prestadores.aspx",
-              "RelativeToolTip": "LojaVirtual\\prestadores.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-06T12:06:29.144Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "criar_conta.aspx",
-              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\criar_conta.aspx",
-              "RelativeDocumentMoniker": "LojaVirtual\\criar_conta.aspx",
-              "ToolTip": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\criar_conta.aspx",
-              "RelativeToolTip": "LojaVirtual\\criar_conta.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-05T20:46:01.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "anuncios.aspx",
-              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\anuncios.aspx",
-              "RelativeDocumentMoniker": "LojaVirtual\\anuncios.aspx",
-              "ToolTip": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\anuncios.aspx",
-              "RelativeToolTip": "LojaVirtual\\anuncios.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-05T19:42:59.469Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "anuncios.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\anuncios.aspx.cs",
-              "RelativeDocumentMoniker": "LojaVirtual\\anuncios.aspx.cs",
-              "ToolTip": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\anuncios.aspx.cs",
-              "RelativeToolTip": "LojaVirtual\\anuncios.aspx.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAApwFMAAADoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T19:10:59.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "dashboard_admin.aspx",
-              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\dashboard_admin.aspx",
-              "RelativeDocumentMoniker": "LojaVirtual\\dashboard_admin.aspx",
-              "ToolTip": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\dashboard_admin.aspx",
-              "RelativeToolTip": "LojaVirtual\\dashboard_admin.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-05T18:35:35.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "dashboard_admin.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\dashboard_admin.aspx.cs",
-              "RelativeDocumentMoniker": "LojaVirtual\\dashboard_admin.aspx.cs",
-              "ToolTip": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\dashboard_admin.aspx.cs",
-              "RelativeToolTip": "LojaVirtual\\dashboard_admin.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T11:06:26.833Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "chat.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\chat.aspx.cs",
-              "RelativeDocumentMoniker": "LojaVirtual\\chat.aspx.cs",
-              "ToolTip": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\chat.aspx.cs",
-              "RelativeToolTip": "LojaVirtual\\chat.aspx.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwIEAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T19:19:13.424Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "chat.aspx",
-              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\chat.aspx",
-              "RelativeDocumentMoniker": "LojaVirtual\\chat.aspx",
-              "ToolTip": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\chat.aspx",
-              "RelativeToolTip": "LojaVirtual\\chat.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-04-21T19:18:42.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "criar_anuncio.aspx",
-              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\criar_anuncio.aspx",
-              "RelativeDocumentMoniker": "LojaVirtual\\criar_anuncio.aspx",
-              "ToolTip": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\criar_anuncio.aspx",
-              "RelativeToolTip": "LojaVirtual\\criar_anuncio.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-04-14T15:01:40.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "criar_anuncio.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\criar_anuncio.aspx.cs",
-              "RelativeDocumentMoniker": "LojaVirtual\\criar_anuncio.aspx.cs",
-              "ToolTip": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\criar_anuncio.aspx.cs",
-              "RelativeToolTip": "LojaVirtual\\criar_anuncio.aspx.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAowC8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T15:53:18.514Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "dashboard_prestador.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\dashboard_prestador.aspx.cs",
-              "RelativeDocumentMoniker": "LojaVirtual\\dashboard_prestador.aspx.cs",
-              "ToolTip": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\dashboard_prestador.aspx.cs",
-              "RelativeToolTip": "LojaVirtual\\dashboard_prestador.aspx.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwHEBAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T18:53:56.332Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "dashboard_cliente.aspx",
-              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\dashboard_cliente.aspx",
-              "RelativeDocumentMoniker": "LojaVirtual\\dashboard_cliente.aspx",
-              "ToolTip": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\dashboard_cliente.aspx",
-              "RelativeToolTip": "LojaVirtual\\dashboard_cliente.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-04-29T11:26:49.252Z",
+              "WhenOpened": "2025-05-14T21:22:59.585Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "dashboard_prestador.aspx",
-              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\dashboard_prestador.aspx",
-              "RelativeDocumentMoniker": "LojaVirtual\\dashboard_prestador.aspx",
-              "ToolTip": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\dashboard_prestador.aspx",
-              "RelativeToolTip": "LojaVirtual\\dashboard_prestador.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-04-29T18:59:37.77Z",
-              "EditorCaption": ""
+              "Title": "_carousel.scss",
+              "DocumentMoniker": "C:\\Users\\thoma\\OneDrive\\\u00C1rea de Trabalho\\LojaVirtual\\LojaVirtual\\LojaVirtual\\scss\\bootstrap\\_carousel.scss",
+              "RelativeDocumentMoniker": "LojaVirtual\\scss\\bootstrap\\_carousel.scss",
+              "ToolTip": "C:\\Users\\thoma\\OneDrive\\\u00C1rea de Trabalho\\LojaVirtual\\LojaVirtual\\LojaVirtual\\scss\\bootstrap\\_carousel.scss",
+              "RelativeToolTip": "LojaVirtual\\scss\\bootstrap\\_carousel.scss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-05-14T21:22:28.209Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "inserir_pet.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\inserir_pet.aspx.cs",
-              "RelativeDocumentMoniker": "LojaVirtual\\inserir_pet.aspx.cs",
-              "ToolTip": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\inserir_pet.aspx.cs",
-              "RelativeToolTip": "LojaVirtual\\inserir_pet.aspx.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowA0AAAA5AAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "anuncios.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\OneDrive\\\u00C1rea de Trabalho\\LojaVirtual\\LojaVirtual\\LojaVirtual\\anuncios.aspx.cs",
+              "RelativeDocumentMoniker": "LojaVirtual\\anuncios.aspx.cs",
+              "ToolTip": "C:\\Users\\thoma\\OneDrive\\\u00C1rea de Trabalho\\LojaVirtual\\LojaVirtual\\LojaVirtual\\anuncios.aspx.cs",
+              "RelativeToolTip": "LojaVirtual\\anuncios.aspx.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAmwBAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T15:02:45.918Z",
+              "WhenOpened": "2025-05-14T21:20:20.992Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "home.aspx",
-              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\home.aspx",
-              "RelativeDocumentMoniker": "LojaVirtual\\home.aspx",
-              "ToolTip": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\home.aspx",
-              "RelativeToolTip": "LojaVirtual\\home.aspx",
+              "DocumentIndex": 4,
+              "Title": "anuncios.aspx",
+              "DocumentMoniker": "C:\\Users\\thoma\\OneDrive\\\u00C1rea de Trabalho\\LojaVirtual\\LojaVirtual\\LojaVirtual\\anuncios.aspx",
+              "RelativeDocumentMoniker": "LojaVirtual\\anuncios.aspx",
+              "ToolTip": "C:\\Users\\thoma\\OneDrive\\\u00C1rea de Trabalho\\LojaVirtual\\LojaVirtual\\LojaVirtual\\anuncios.aspx",
+              "RelativeToolTip": "LojaVirtual\\anuncios.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-04-22T17:21:04.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T21:20:17.099Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "dashboard_cliente.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\dashboard_cliente.aspx.cs",
-              "RelativeDocumentMoniker": "LojaVirtual\\dashboard_cliente.aspx.cs",
-              "ToolTip": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\dashboard_cliente.aspx.cs",
-              "RelativeToolTip": "LojaVirtual\\dashboard_cliente.aspx.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAnwE4AAADcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T11:39:55.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "inserir_produtos.aspx",
-              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\inserir_produtos.aspx",
-              "RelativeDocumentMoniker": "LojaVirtual\\inserir_produtos.aspx",
-              "ToolTip": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\inserir_produtos.aspx",
-              "RelativeToolTip": "LojaVirtual\\inserir_produtos.aspx",
+              "DocumentIndex": 5,
+              "Title": "checkout.aspx",
+              "DocumentMoniker": "C:\\Users\\thoma\\OneDrive\\\u00C1rea de Trabalho\\LojaVirtual\\LojaVirtual\\LojaVirtual\\checkout.aspx",
+              "RelativeDocumentMoniker": "LojaVirtual\\checkout.aspx",
+              "ToolTip": "C:\\Users\\thoma\\OneDrive\\\u00C1rea de Trabalho\\LojaVirtual\\LojaVirtual\\LojaVirtual\\checkout.aspx",
+              "RelativeToolTip": "LojaVirtual\\checkout.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-04-07T18:46:58.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T20:13:19.518Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 6,
               "Title": "ativacao_conta.aspx",
-              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\ativacao_conta.aspx",
+              "DocumentMoniker": "C:\\Users\\thoma\\OneDrive\\\u00C1rea de Trabalho\\LojaVirtual\\LojaVirtual\\LojaVirtual\\ativacao_conta.aspx",
               "RelativeDocumentMoniker": "LojaVirtual\\ativacao_conta.aspx",
-              "ToolTip": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\ativacao_conta.aspx",
+              "ToolTip": "C:\\Users\\thoma\\OneDrive\\\u00C1rea de Trabalho\\LojaVirtual\\LojaVirtual\\LojaVirtual\\ativacao_conta.aspx",
               "RelativeToolTip": "LojaVirtual\\ativacao_conta.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-04-10T20:54:06.001Z",
+              "WhenOpened": "2025-05-14T20:12:45.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "detalhes_anuncio.aspx",
+              "DocumentMoniker": "C:\\Users\\thoma\\OneDrive\\\u00C1rea de Trabalho\\LojaVirtual\\LojaVirtual\\LojaVirtual\\detalhes_anuncio.aspx",
+              "RelativeDocumentMoniker": "LojaVirtual\\detalhes_anuncio.aspx",
+              "ToolTip": "C:\\Users\\thoma\\OneDrive\\\u00C1rea de Trabalho\\LojaVirtual\\LojaVirtual\\LojaVirtual\\detalhes_anuncio.aspx",
+              "RelativeToolTip": "LojaVirtual\\detalhes_anuncio.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-14T20:08:24.044Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "prestadores.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\prestadores.aspx.cs",
-              "RelativeDocumentMoniker": "LojaVirtual\\prestadores.aspx.cs",
-              "ToolTip": "C:\\Users\\ander\\Desktop\\Programa\u00E7\u00E3oCINEL\\LojaVirtual\\LojaVirtual\\prestadores.aspx.cs",
-              "RelativeToolTip": "LojaVirtual\\prestadores.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "detalhes_anuncio.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\OneDrive\\\u00C1rea de Trabalho\\LojaVirtual\\LojaVirtual\\LojaVirtual\\detalhes_anuncio.aspx.cs",
+              "RelativeDocumentMoniker": "LojaVirtual\\detalhes_anuncio.aspx.cs",
+              "ToolTip": "C:\\Users\\thoma\\OneDrive\\\u00C1rea de Trabalho\\LojaVirtual\\LojaVirtual\\LojaVirtual\\detalhes_anuncio.aspx.cs",
+              "RelativeToolTip": "LojaVirtual\\detalhes_anuncio.aspx.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAgwIcAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T19:06:50.396Z",
+              "WhenOpened": "2025-05-11T15:43:17.407Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 81,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }

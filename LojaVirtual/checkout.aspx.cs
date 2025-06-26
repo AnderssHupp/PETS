@@ -167,9 +167,7 @@ namespace LojaVirtual
 
         protected void btnNext2_Click(object sender, EventArgs e)
         {
-            // Força a atualização da morada
-            //upWizard.Update();
-            // Verifica se o usuário escolheu uma nova morada
+            
 
             if (chkOutraMorada.Checked == true)
             {
@@ -276,7 +274,7 @@ namespace LojaVirtual
 
             try
             {
-                email.From = new MailAddress("andersson.hupp.31591@formandos.cinel.pt");
+                email.From = new MailAddress("yourEmail@email.com");
 
                 email.To.Add(userEmail); //diferença entre ambos é que o to pode ser para varios destinatarios
 
@@ -293,7 +291,7 @@ namespace LojaVirtual
                 servidor.Host = "smtp-mail.outlook.com"; //smtp.office365.com
                 servidor.Port = 587;
 
-                servidor.Credentials = new NetworkCredential("andersson.hupp.31591@formandos.cinel.pt", "@Cerveja24");
+                servidor.Credentials = new NetworkCredential("yourEmail@email.com", "yourPassword");
 
                 servidor.EnableSsl = true;
 
@@ -325,7 +323,6 @@ namespace LojaVirtual
             }
             catch (Exception ex)
             {
-                // Tratamento de erro (opcional)
                 Response.Write("Erro ao atualizar stock: " + ex.Message);
             }
         }

@@ -151,12 +151,6 @@ namespace LojaVirtual
             
         }
 
-
-        protected void btn_gestaoP_Click(object sender, EventArgs e)
-        {
-            Response.Redirect("gestao_produtos.aspx");
-        }
-
         protected void btn_pesquisa_Click(object sender, EventArgs e)
         {
             CarregarProdutos();

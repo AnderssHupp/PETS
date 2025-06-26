@@ -41,11 +41,11 @@ namespace LojaVirtual
                 SqlCommand cmd = new SqlCommand(query, myConn);
                 cmd.Parameters.AddWithValue("@id", id_utilizador);
                 myConn.Open();
-                int count = (int)cmd.ExecuteScalar(); // Retorna o número de pets
+                int count = (int)cmd.ExecuteScalar(); 
 
                 if (count == 0)
                 {
-                    // Nenhum pet cadastrado, redireciona
+                   
                     lbl_msgPet.Visible = true;
                     btnCadastrarPet.Visible = true;
                     panelFormulario.Visible = false;
@@ -80,7 +80,7 @@ namespace LojaVirtual
                     return (lat, lon);
                 }
 
-                return (0, 0); // fallback se não encontrar
+                return (0, 0); // fallback se n encontrar
             }
         }
         protected async void btn_publicar_ClickAsync(object sender, EventArgs e)

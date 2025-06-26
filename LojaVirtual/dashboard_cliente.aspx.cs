@@ -158,15 +158,8 @@ namespace LojaVirtual
         protected void lvAnuncios_ItemCommand(object source, ListViewCommandEventArgs e)
         {
             if (e.CommandName == "VerCandidaturas")
-            {
-                //panel_anuncios.Style["display"] = "none";
-                //panel_candidaturas.Style["display"] = "block";
-                //int idAnuncio = Convert.ToInt32(e.CommandArgument);
-                //ViewState["anuncioSelecionado"] = idAnuncio;
-                CarregarCandidaturas();
-
-                
-
+            {             
+                CarregarCandidaturas();              
             }
             else if (e.CommandName == "Remover")
             {
@@ -440,7 +433,7 @@ namespace LojaVirtual
             try
             {
                 // Simulação de envio de e-mail
-                MailMessage email = new MailMessage("andersson.hupp.31591@formandos.cinel.pt", destino);
+                MailMessage email = new MailMessage("YourEmail@email.com", destino);
                 SmtpClient servidor = new SmtpClient();  // configure no Web.config se necessário
 
                 email.Subject = "Lembrete de Serviço";
@@ -449,7 +442,7 @@ namespace LojaVirtual
                 servidor.Host = "smtp-mail.outlook.com"; //smtp.office365.com
                 servidor.Port = 587;
 
-                servidor.Credentials = new NetworkCredential("andersson.hupp.31591@formandos.cinel.pt", "@Cerveja24");
+                servidor.Credentials = new NetworkCredential("YourEmail@email.com", "YourPassword");
 
                 servidor.EnableSsl = true;
 
@@ -457,8 +450,7 @@ namespace LojaVirtual
             }
             catch (Exception ex)
             {
-                // Logar ou registrar o erro
-                // Ex: salvar em um log de falha ou enviar para o admin
+                
                 Console.WriteLine("Erro ao enviar e-mail: " + ex.Message);
 
             }
@@ -576,10 +568,7 @@ namespace LojaVirtual
                     string base64 = Convert.ToBase64String(fotoBytes);
                     row["FotoBase64"] = "data:image/jpeg;base64," + base64;
                 }
-                //else
-                //{
-                //    row["FotoBase64"] = "https://via.placeholder.com/50x50?text=User";
-                //}
+                
             }
 
 
@@ -973,17 +962,14 @@ namespace LojaVirtual
                 EnviarEmail(emailPrestador, mensagemPrestador);
                 EnviarEmail(emailCliente, mensagemCliente);
 
-            //CarregarCandidaturas(Convert.ToInt32(ViewState["anuncioSelecionado"]));
+          
         }
 
         protected void btnLogout_Click(object sender, EventArgs e)
         {
             Session.Clear();
-            Session.Abandon();
-
-            // Encerrar a autenticação com Google (caso esteja autenticado)
+            Session.Abandon();        
             HttpContext.Current.GetOwinContext().Authentication.SignOut();
-
 
             Response.Redirect("login.aspx");
         }

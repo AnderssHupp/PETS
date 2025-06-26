@@ -371,10 +371,7 @@ namespace LojaVirtual
                     string base64 = Convert.ToBase64String(fotoBytes);
                     row["FotoBase64"] = "data:image/jpeg;base64," + base64;
                 }
-                //else
-                //{
-                //    row["FotoBase64"] = "https://via.placeholder.com/50x50?text=User";
-                //}
+              
             }
             rp_usuarios.DataSource = dt;
             rp_usuarios.DataBind();
@@ -607,10 +604,10 @@ namespace LojaVirtual
             RadioButton selectedRadio = (RadioButton)sender;
             if (selectedRadio.Checked)
             {
-                // Obter o ID do cartão selecionado
+                // obter o ID do cartao selecionado
                 string idCartao = selectedRadio.ToolTip;
 
-                // Desmarcar todos os outros radio buttons
+               
                 foreach (RepeaterItem item in rptCartoes.Items)
                 {
                     RadioButton rb = (RadioButton)item.FindControl("rbSelecionar");
@@ -626,11 +623,7 @@ namespace LojaVirtual
         {
             Session.Clear();
             Session.Abandon();
-
-            // Encerrar a autenticação com Google (caso esteja autenticado)
             HttpContext.Current.GetOwinContext().Authentication.SignOut();
-
-
             Response.Redirect("login.aspx");
         }
     }
