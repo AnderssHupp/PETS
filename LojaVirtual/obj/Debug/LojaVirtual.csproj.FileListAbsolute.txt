@@ -1,0 +1,460 @@
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\LojaVirtual.dll.config
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\LojaVirtual.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\LojaVirtual.pdb
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\csc.exe
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\csc.exe.config
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\csc.rsp
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\csi.exe
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\csi.exe.config
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\csi.rsp
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\System.AppContext.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\System.Console.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\System.IO.Compression.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\System.Net.Http.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\System.Net.Sockets.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\System.ValueTuple.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\vbc.exe
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\vbc.exe.config
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\vbc.rsp
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\VBCSCompiler.exe
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\obj\Debug\LojaVirtual.csproj.AssemblyReference.cache
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\obj\Debug\LojaVirtual.csproj.CoreCompileInputs.cache
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\obj\Debug\LojaVirtual.csproj.CopyComplete
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\obj\Debug\LojaVirtual.dll
+C:\Users\gahhf\Desktop\Desktop\LojaVirtual\LojaVirtual\LojaVirtual\obj\Debug\LojaVirtual.pdb
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\LojaVirtual.dll.config
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\LojaVirtual.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\LojaVirtual.pdb
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\csc.exe
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\csc.exe.config
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\csc.rsp
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\csi.exe
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\csi.exe.config
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\csi.rsp
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\System.AppContext.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\System.Console.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\System.IO.Compression.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\System.Net.Http.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\System.ValueTuple.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\vbc.exe
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\vbc.exe.config
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\vbc.rsp
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\VBCSCompiler.exe
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\Hangfire.Core.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\Hangfire.SqlServer.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\itextsharp.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\itextsharp.pdfa.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\itextsharp.xtra.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.Security.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\Newtonsoft.Json.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\Owin.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\Hangfire.Core.xml
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\Hangfire.SqlServer.xml
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\itextsharp.xml
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.xml
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.Security.xml
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\Newtonsoft.Json.xml
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\ca\Hangfire.Core.resources.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\de\Hangfire.Core.resources.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\es\Hangfire.Core.resources.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\fa\Hangfire.Core.resources.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\fr\Hangfire.Core.resources.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\nb\Hangfire.Core.resources.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\nl\Hangfire.Core.resources.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\pt\Hangfire.Core.resources.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\pt-BR\Hangfire.Core.resources.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\pt-PT\Hangfire.Core.resources.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\sv\Hangfire.Core.resources.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\tr-TR\Hangfire.Core.resources.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\zh\Hangfire.Core.resources.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\bin\zh-TW\Hangfire.Core.resources.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\obj\Debug\LojaVirtual.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\obj\Debug\LojaVirtual.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\obj\Debug\LojaVirt.1918C10C.Up2Date
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\obj\Debug\LojaVirtual.dll
+C:\Users\ander\Desktop\ProgramaçãoCINEL\LojaVirtual\LojaVirtual\obj\Debug\LojaVirtual.pdb
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\LojaVirtual.dll.config
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\LojaVirtual.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\LojaVirtual.pdb
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\csc.exe
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\csc.exe.config
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\csc.rsp
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\csi.exe
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\csi.exe.config
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\csi.rsp
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\System.AppContext.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\System.Console.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\System.IO.Compression.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\System.Net.Http.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\System.ValueTuple.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\vbc.exe
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\vbc.exe.config
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\vbc.rsp
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\VBCSCompiler.exe
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\Hangfire.Core.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\Hangfire.SqlServer.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.Security.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\Newtonsoft.Json.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\Owin.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\Hangfire.Core.xml
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\Hangfire.SqlServer.xml
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\itextsharp.xml
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.xml
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.Security.xml
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\Newtonsoft.Json.xml
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\ca\Hangfire.Core.resources.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\de\Hangfire.Core.resources.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\es\Hangfire.Core.resources.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\fa\Hangfire.Core.resources.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\fr\Hangfire.Core.resources.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\nb\Hangfire.Core.resources.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\nl\Hangfire.Core.resources.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\pt\Hangfire.Core.resources.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\pt-BR\Hangfire.Core.resources.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\pt-PT\Hangfire.Core.resources.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\sv\Hangfire.Core.resources.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\tr-TR\Hangfire.Core.resources.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\zh\Hangfire.Core.resources.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\zh-TW\Hangfire.Core.resources.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\obj\Debug\LojaVirtual.csproj.AssemblyReference.cache
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\obj\Debug\LojaVirtual.csproj.CoreCompileInputs.cache
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\obj\Debug\LojaVirt.1918C10C.Up2Date
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\obj\Debug\LojaVirtual.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\obj\Debug\LojaVirtual.pdb
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\Google.Apis.Auth.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\Google.Apis.Calendar.v3.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\Google.Apis.Core.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\Google.Apis.dll
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\Google.Apis.pdb
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\Google.Apis.xml
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\Google.Apis.Auth.pdb
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\Google.Apis.Auth.xml
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\Google.Apis.Calendar.v3.pdb
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\Google.Apis.Calendar.v3.xml
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\Google.Apis.Core.pdb
+C:\Users\ander\Nova pasta\LojaVirtual\LojaVirtual\bin\Google.Apis.Core.xml
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\LojaVirtual.dll.config
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\LojaVirtual.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\LojaVirtual.pdb
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\csc.exe
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\csc.exe.config
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\csc.rsp
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\csi.exe
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\csi.exe.config
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\csi.rsp
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\System.AppContext.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\System.Console.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\System.IO.Compression.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\System.Net.Http.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\System.Net.Sockets.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\System.ValueTuple.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\System.Xml.XPath.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\vbc.exe
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\vbc.exe.config
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\vbc.rsp
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\VBCSCompiler.exe
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\Google.Apis.Auth.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\Google.Apis.Calendar.v3.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\Google.Apis.Core.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\Google.Apis.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\Hangfire.Core.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\Hangfire.SqlServer.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.Security.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\Newtonsoft.Json.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\Owin.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\Google.Apis.pdb
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\Google.Apis.xml
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\Google.Apis.Auth.pdb
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\Google.Apis.Auth.xml
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\Google.Apis.Calendar.v3.pdb
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\Google.Apis.Calendar.v3.xml
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\Google.Apis.Core.pdb
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\Google.Apis.Core.xml
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\Hangfire.Core.xml
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\Hangfire.SqlServer.xml
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.xml
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.Security.xml
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\Newtonsoft.Json.xml
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\ca\Hangfire.Core.resources.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\de\Hangfire.Core.resources.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\es\Hangfire.Core.resources.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\fa\Hangfire.Core.resources.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\fr\Hangfire.Core.resources.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\nb\Hangfire.Core.resources.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\nl\Hangfire.Core.resources.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\pt\Hangfire.Core.resources.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\pt-BR\Hangfire.Core.resources.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\pt-PT\Hangfire.Core.resources.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\sv\Hangfire.Core.resources.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\tr-TR\Hangfire.Core.resources.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\zh\Hangfire.Core.resources.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\bin\zh-TW\Hangfire.Core.resources.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\obj\Debug\LojaVirtual.csproj.AssemblyReference.cache
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\obj\Debug\LojaVirtual.csproj.CoreCompileInputs.cache
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\obj\Debug\LojaVirt.1918C10C.Up2Date
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\obj\Debug\LojaVirtual.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\LojaVirtual\LojaVirtual\obj\Debug\LojaVirtual.pdb
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\LojaVirtual.dll.config
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\LojaVirtual.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\LojaVirtual.pdb
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\csc.exe
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\csc.exe.config
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\csc.rsp
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\csi.exe
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\csi.exe.config
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\csi.rsp
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\System.AppContext.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\System.Console.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\System.IO.Compression.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\System.Net.Http.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\System.ValueTuple.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\vbc.exe
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\vbc.exe.config
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\vbc.rsp
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\VBCSCompiler.exe
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\Google.Apis.Auth.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\Google.Apis.Calendar.v3.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\Google.Apis.Core.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\Google.Apis.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\Hangfire.Core.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\Hangfire.SqlServer.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.Security.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\Newtonsoft.Json.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\Owin.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\Google.Apis.pdb
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\Google.Apis.xml
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\Google.Apis.Auth.pdb
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\Google.Apis.Auth.xml
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\Google.Apis.Calendar.v3.pdb
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\Google.Apis.Calendar.v3.xml
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\Google.Apis.Core.pdb
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\Google.Apis.Core.xml
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\Hangfire.Core.xml
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\Hangfire.SqlServer.xml
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.xml
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.Security.xml
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\Newtonsoft.Json.xml
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\ca\Hangfire.Core.resources.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\de\Hangfire.Core.resources.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\es\Hangfire.Core.resources.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\fa\Hangfire.Core.resources.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\fr\Hangfire.Core.resources.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\nb\Hangfire.Core.resources.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\nl\Hangfire.Core.resources.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\pt\Hangfire.Core.resources.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\pt-BR\Hangfire.Core.resources.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\pt-PT\Hangfire.Core.resources.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\sv\Hangfire.Core.resources.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\tr-TR\Hangfire.Core.resources.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\zh\Hangfire.Core.resources.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\bin\zh-TW\Hangfire.Core.resources.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\obj\Debug\LojaVirtual.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\obj\Debug\LojaVirtual.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\obj\Debug\LojaVirt.1918C10C.Up2Date
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\obj\Debug\LojaVirtual.dll
+C:\Users\ander\Desktop\wetransfer_projeto_2025-05-25_2019\LojaVirtual\LojaVirtual\obj\Debug\LojaVirtual.pdb

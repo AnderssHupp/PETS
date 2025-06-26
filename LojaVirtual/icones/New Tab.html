@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<!-- saved from url=(0034)chrome://new-tab-page-third-party/ -->
+<html dir="ltr" lang="en" dark="" class="focus-outline-visible" style="background-color: rgb(60, 60, 60); background-image: unset; --ntp-theme-text-color: rgba(232, 234, 237, 1.00);"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>New Tab</title>
+    <style>
+      html {
+        --ntp-focus-shadow-color: rgba(var(--google-blue-600-rgb), .4);
+        --ntp-theme-text-color: var(--google-grey-800);
+        background-attachment: fixed;
+        background-color: rgba(60,60,60,1);
+        background-position: -64px;
+        background-repeat: no-repeat;
+        height: 100%;
+        overflow: auto;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        html {
+          --ntp-focus-shadow-color: rgba(var(--google-blue-300-rgb), .5);
+          --ntp-theme-text-color: white;
+        }
+      }
+
+      html[has-custom-background] {
+        background-image: image-set(
+            url(chrome://theme/IDR_THEME_NTP_BACKGROUND?) 1x,
+            url(chrome://theme/IDR_THEME_NTP_BACKGROUND@2x?) 2x);
+      }
+
+      body {
+        align-items: center;
+        display: flex;
+        height: 100vh;
+        justify-content: center;
+        margin: 0;
+      }
+
+      cr-most-visited {
+        --most-visited-focus-shadow: 0 0 0 2px var(--ntp-focus-shadow-color);
+        --most-visited-text-color: var(--ntp-theme-text-color);
+        --most-visited-text-shadow: none;
+      }
+
+      html[has-custom-background] cr-most-visited {
+        --most-visited-text-shadow: 0 0 16px rgba(0, 0, 0, .3);
+      }
+    </style>
+  </head>
+  <body>
+    <script type="module" src="chrome://new-tab-page-third-party/strings.m.js"></script>
+    <cr-most-visited visible_="" use-white-tile-icon_="" is-dark_=""><template shadowrootmode="open"><!----><!--_html_template_start_-->
+<div id="container" style="--tile-background-color: rgba(68, 71, 70, 1.00); --column-count: 4; --row-count: 2;">
+  <!--?lit$615268576$--><!---->
+    <div class="tile" draggable="true" title="ChatGPT" data-index="0">
+      <a draggable="false" href="https://chat.openai.com/" aria-label="ChatGPT">
+      </a>
+      <cr-icon-button id="actionMenuButton" class="icon-more-vert" tabindex="0" title="" hidden="" data-index="0" role="button" aria-disabled="false"><template shadowrootmode="open"><!---->
+<div id="icon">
+  <div id="maskedImage"></div>
+</div></template></cr-icon-button>
+      <cr-icon-button id="removeButton" class="icon-clear" tabindex="0" title="Remove" data-index="0" role="button" aria-disabled="false"><template shadowrootmode="open"><!---->
+<div id="icon">
+  <div id="maskedImage"></div>
+</div></template></cr-icon-button>
+      <div class="tile-icon">
+        <img draggable="false" alt="" src="chrome://favicon2/?size=24&amp;scaleFactor=1x&amp;showFallbackMonogram=&amp;pageUrl=https%3A%2F%2Fchat.openai.com%2F">
+        <div class="query-tile-icon" draggable="false" hidden=""></div>
+      </div>
+      <div class="tile-title title-ltr">
+        <span><!--?lit$615268576$-->ChatGPT</span>
+      </div>
+    </div>
+  <!----><!---->
+    <div class="tile" draggable="true" title="Carousel · Bootstrap" data-index="1">
+      <a draggable="false" href="https://getbootstrap.com/docs/4.0/components/carousel/" aria-label="Carousel · Bootstrap">
+      </a>
+      <cr-icon-button id="actionMenuButton" class="icon-more-vert" tabindex="0" title="" hidden="" data-index="1" role="button" aria-disabled="false"><template shadowrootmode="open"><!---->
+<div id="icon">
+  <div id="maskedImage"></div>
+</div></template></cr-icon-button>
+      <cr-icon-button id="removeButton" class="icon-clear" tabindex="0" title="Remove" data-index="1" role="button" aria-disabled="false"><template shadowrootmode="open"><!---->
+<div id="icon">
+  <div id="maskedImage"></div>
+</div></template></cr-icon-button>
+      <div class="tile-icon">
+        <img draggable="false" alt="" src="chrome://favicon2/?size=24&amp;scaleFactor=1x&amp;showFallbackMonogram=&amp;pageUrl=https%3A%2F%2Fgetbootstrap.com%2Fdocs%2F4.0%2Fcomponents%2Fcarousel%2F">
+        <div class="query-tile-icon" draggable="false" hidden=""></div>
+      </div>
+      <div class="tile-title title-ltr">
+        <span><!--?lit$615268576$-->Carousel · Bootstrap</span>
+      </div>
+    </div>
+  <!----><!---->
+    <div class="tile" draggable="true" title="Google" data-index="2">
+      <a draggable="false" href="https://google.com/" aria-label="Google">
+      </a>
+      <cr-icon-button id="actionMenuButton" class="icon-more-vert" tabindex="0" title="" hidden="" data-index="2" role="button" aria-disabled="false"><template shadowrootmode="open"><!---->
+<div id="icon">
+  <div id="maskedImage"></div>
+</div></template></cr-icon-button>
+      <cr-icon-button id="removeButton" class="icon-clear" tabindex="0" title="Remove" data-index="2" role="button" aria-disabled="false"><template shadowrootmode="open"><!---->
+<div id="icon">
+  <div id="maskedImage"></div>
+</div></template></cr-icon-button>
+      <div class="tile-icon">
+        <img draggable="false" alt="" src="chrome://favicon2/?size=24&amp;scaleFactor=1x&amp;showFallbackMonogram=&amp;pageUrl=https%3A%2F%2Fgoogle.com%2F">
+        <div class="query-tile-icon" draggable="false" hidden=""></div>
+      </div>
+      <div class="tile-title title-ltr">
+        <span><!--?lit$615268576$-->Google</span>
+      </div>
+    </div>
+  <!----><!---->
+    <div class="tile" draggable="true" title="Google Maps" data-index="3">
+      <a draggable="false" href="https://maps.google.com/" aria-label="Google Maps">
+      </a>
+      <cr-icon-button id="actionMenuButton" class="icon-more-vert" tabindex="0" title="" hidden="" data-index="3" role="button" aria-disabled="false"><template shadowrootmode="open"><!---->
+<div id="icon">
+  <div id="maskedImage"></div>
+</div></template></cr-icon-button>
+      <cr-icon-button id="removeButton" class="icon-clear" tabindex="0" title="Remove" data-index="3" role="button" aria-disabled="false"><template shadowrootmode="open"><!---->
+<div id="icon">
+  <div id="maskedImage"></div>
+</div></template></cr-icon-button>
+      <div class="tile-icon">
+        <img draggable="false" alt="" src="chrome://favicon2/?size=24&amp;scaleFactor=1x&amp;showFallbackMonogram=&amp;pageUrl=https%3A%2F%2Fmaps.google.com%2F">
+        <div class="query-tile-icon" draggable="false" hidden=""></div>
+      </div>
+      <div class="tile-title title-ltr">
+        <span><!--?lit$615268576$-->Google Maps</span>
+      </div>
+    </div>
+  <!----><!---->
+    <div class="tile" draggable="true" title="https://placehold.co/600x400?text=Sem+Imagem" data-index="4">
+      <a draggable="false" href="https://placehold.co/600x400?text=Sem+Imagem" aria-label="https://placehold.co/600x400?text=Sem+Imagem">
+      </a>
+      <cr-icon-button id="actionMenuButton" class="icon-more-vert" tabindex="0" title="" hidden="" data-index="4" role="button" aria-disabled="false"><template shadowrootmode="open"><!---->
+<div id="icon">
+  <div id="maskedImage"></div>
+</div></template></cr-icon-button>
+      <cr-icon-button id="removeButton" class="icon-clear" tabindex="0" title="Remove" data-index="4" role="button" aria-disabled="false"><template shadowrootmode="open"><!---->
+<div id="icon">
+  <div id="maskedImage"></div>
+</div></template></cr-icon-button>
+      <div class="tile-icon">
+        <img draggable="false" alt="" src="chrome://favicon2/?size=24&amp;scaleFactor=1x&amp;showFallbackMonogram=&amp;pageUrl=https%3A%2F%2Fplacehold.co%2F600x400%3Ftext%3DSem%2BImagem">
+        <div class="query-tile-icon" draggable="false" hidden=""></div>
+      </div>
+      <div class="tile-title title-ltr">
+        <span><!--?lit$615268576$-->https://placehold.co/600x400?text=Sem+Imagem</span>
+      </div>
+    </div>
+  <!----><!---->
+    <div class="tile" draggable="true" title="Pet World" data-index="5">
+      <a draggable="false" href="https://localhost:44389/checkout.aspx" aria-label="Pet World">
+      </a>
+      <cr-icon-button id="actionMenuButton" class="icon-more-vert" tabindex="0" title="" hidden="" data-index="5" role="button" aria-disabled="false"><template shadowrootmode="open"><!---->
+<div id="icon">
+  <div id="maskedImage"></div>
+</div></template></cr-icon-button>
+      <cr-icon-button id="removeButton" class="icon-clear" tabindex="0" title="Remove" data-index="5" role="button" aria-disabled="false"><template shadowrootmode="open"><!---->
+<div id="icon">
+  <div id="maskedImage"></div>
+</div></template></cr-icon-button>
+      <div class="tile-icon">
+        <img draggable="false" alt="" src="chrome://favicon2/?size=24&amp;scaleFactor=1x&amp;showFallbackMonogram=&amp;pageUrl=https%3A%2F%2Flocalhost%3A44389%2Fcheckout.aspx">
+        <div class="query-tile-icon" draggable="false" hidden=""></div>
+      </div>
+      <div class="tile-title title-ltr">
+        <span><!--?lit$615268576$-->Pet World</span>
+      </div>
+    </div>
+  <!----><!---->
+    <div class="tile" draggable="true" title="Google Maps" data-index="6">
+      <a draggable="false" href="https://www.google.com/maps" aria-label="Google Maps">
+      </a>
+      <cr-icon-button id="actionMenuButton" class="icon-more-vert" tabindex="0" title="" hidden="" data-index="6" role="button" aria-disabled="false"><template shadowrootmode="open"><!---->
+<div id="icon">
+  <div id="maskedImage"></div>
+</div></template></cr-icon-button>
+      <cr-icon-button id="removeButton" class="icon-clear" tabindex="0" title="Remove" data-index="6" role="button" aria-disabled="false"><template shadowrootmode="open"><!---->
+<div id="icon">
+  <div id="maskedImage"></div>
+</div></template></cr-icon-button>
+      <div class="tile-icon">
+        <img draggable="false" alt="" src="chrome://favicon2/?size=24&amp;scaleFactor=1x&amp;showFallbackMonogram=&amp;pageUrl=https%3A%2F%2Fwww.google.com%2Fmaps">
+        <div class="query-tile-icon" draggable="false" hidden=""></div>
+      </div>
+      <div class="tile-title title-ltr">
+        <span><!--?lit$615268576$-->Google Maps</span>
+      </div>
+    </div>
+  <!----><!---->
+    <div class="tile" draggable="true" title="LinkedIn" data-index="7">
+      <a draggable="false" href="https://www.linkedin.com/jobs/view/3027539183/?refId=3CW2UoXydZOuQ%2F63R3rHBw%3D%3D&amp;trackingId=3CW2UoXydZOuQ%2F63R3rHBw%3D%3D&amp;midToken=AQHYPmBFCEtVXA&amp;midSig=1fiKwbm52Miqo1&amp;trk=eml-email_jobs_viewed_job_reminder_01-similar_jobs-61-viewed~job~title~mercado&amp;trkEmail=eml-email_jobs_viewed_job_reminder_01-similar_jobs-61-viewed~job~title~mercado-null-7gomzr~l6totyc9~aa-null-jobs~view" aria-label="LinkedIn">
+      </a>
+      <cr-icon-button id="actionMenuButton" class="icon-more-vert" tabindex="0" title="" hidden="" data-index="7" role="button" aria-disabled="false"><template shadowrootmode="open"><!---->
+<div id="icon">
+  <div id="maskedImage"></div>
+</div></template></cr-icon-button>
+      <cr-icon-button id="removeButton" class="icon-clear" tabindex="0" title="Remove" data-index="7" role="button" aria-disabled="false"><template shadowrootmode="open"><!---->
+<div id="icon">
+  <div id="maskedImage"></div>
+</div></template></cr-icon-button>
+      <div class="tile-icon">
+        <img draggable="false" alt="" src="chrome://favicon2/?size=24&amp;scaleFactor=1x&amp;showFallbackMonogram=&amp;pageUrl=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2F3027539183%2F%3FrefId%3D3CW2UoXydZOuQ%252F63R3rHBw%253D%253D%26trackingId%3D3CW2UoXydZOuQ%252F63R3rHBw%253D%253D%26midToken%3DAQHYPmBFCEtVXA%26midSig%3D1fiKwbm52Miqo1%26trk%3Deml-email_jobs_viewed_job_reminder_01-similar_jobs-61-viewed%7Ejob%7Etitle%7Emercado%26trkEmail%3Deml-email_jobs_viewed_job_reminder_01-similar_jobs-61-viewed%7Ejob%7Etitle%7Emercado-null-7gomzr%7El6totyc9%7Eaa-null-jobs%7Eview">
+        <div class="query-tile-icon" draggable="false" hidden=""></div>
+      </div>
+      <div class="tile-title title-ltr">
+        <span><!--?lit$615268576$-->LinkedIn</span>
+      </div>
+    </div>
+  <!---->
+  <cr-button id="addShortcut" tabindex="0" noink="" hidden="" aria-label="" title="" role="button" aria-disabled="false"><template shadowrootmode="open"><!---->
+<div id="background"></div>
+<slot id="prefixIcon" name="prefix-icon">
+</slot>
+<span id="content"><slot></slot></span>
+<slot id="suffixIcon" name="suffix-icon">
+</slot>
+<div id="hoverBackground" part="hoverBackground"></div></template>
+    <div id="addShortcutIconContainer" class="tile-icon">
+      <div id="addShortcutIcon" draggable="false"></div>
+    </div>
+    <div class="tile-title">
+      <span><!--?lit$615268576$--></span>
+    </div>
+  </cr-button>
+  <cr-dialog id="dialog"><template shadowrootmode="open"><!---->
+<dialog id="dialog" part="dialog" aria-labelledby="title">
+<!-- This wrapper is necessary, such that the "pulse" animation is not
+    erroneously played when the user clicks on the outer-most scrollbar. -->
+  <div id="content-wrapper" part="wrapper">
+    <div class="top-container">
+      <h2 id="title" class="title-container" tabindex="-1">
+        <slot name="title"></slot>
+      </h2>
+      <!--?lit$615268576$-->
+    </div>
+    <slot name="header"></slot>
+    <div class="body-container cr-scrollable" id="container" part="body-container">
+      <div class="cr-scrollable-top"></div>
+      <slot name="body"></slot>
+      <div class="cr-scrollable-bottom"></div>
+    </div>
+    <slot name="button-container"></slot>
+    <slot name="footer"></slot>
+  </div>
+</dialog></template>
+    <div slot="title"><!--?lit$615268576$--></div>
+    <div slot="body" id="dialogContent">
+      <cr-input id="dialogInputName" spellcheck="false" autofocus="" label=""><template shadowrootmode="open"><!---->
+<div id="label" class="cr-form-field-label" aria-hidden="true" hidden="">
+  <!--?lit$615268576$-->
+</div>
+<div id="row-container" part="row-container">
+  <div id="input-container">
+    <div id="inner-input-container">
+      <div id="hover-layer"></div>
+      <div id="inner-input-content">
+        <slot name="inline-prefix"></slot>
+        <input id="input" part="input" autocomplete="off" autofocus="" tabindex="0" type="text" maxlength="" minlength="" inputmode="" aria-label="" aria-invalid="false">
+        <slot name="inline-suffix"></slot>
+      </div>
+    </div>
+    <div id="underline-base"></div>
+    <div id="underline"></div>
+  </div>
+  <slot name="suffix"></slot>
+</div>
+<div id="error" aria-live="assertive"><!--?lit$615268576$--></div></template></cr-input>
+      <cr-input id="dialogInputUrl" spellcheck="false" type="url" label=""><template shadowrootmode="open"><!---->
+<div id="label" class="cr-form-field-label" aria-hidden="true" hidden="">
+  <!--?lit$615268576$-->
+</div>
+<div id="row-container" part="row-container">
+  <div id="input-container">
+    <div id="inner-input-container">
+      <div id="hover-layer"></div>
+      <div id="inner-input-content">
+        <slot name="inline-prefix"></slot>
+        <input id="input" part="input" autocomplete="off" tabindex="0" type="url" maxlength="" minlength="" inputmode="" aria-label="" aria-invalid="false">
+        <slot name="inline-suffix"></slot>
+      </div>
+    </div>
+    <div id="underline-base"></div>
+    <div id="underline"></div>
+  </div>
+  <slot name="suffix"></slot>
+</div>
+<div id="error" aria-live="assertive"><!--?lit$615268576$--></div></template>
+      </cr-input>
+    </div>
+    <div slot="button-container">
+      <cr-button class="cancel-button" role="button" tabindex="0" aria-disabled="false"><template shadowrootmode="open"><!---->
+<div id="background"></div>
+<slot id="prefixIcon" name="prefix-icon">
+</slot>
+<span id="content"><slot></slot></span>
+<slot id="suffixIcon" name="suffix-icon">
+</slot>
+<div id="hoverBackground" part="hoverBackground"></div></template>
+        <!--?lit$615268576$-->
+      </cr-button>
+      <cr-button class="action-button" disabled="" role="button" tabindex="-1" aria-disabled="true"><template shadowrootmode="open"><!---->
+<div id="background"></div>
+<slot id="prefixIcon" name="prefix-icon">
+</slot>
+<span id="content"><slot></slot></span>
+<slot id="suffixIcon" name="suffix-icon">
+</slot>
+<div id="hoverBackground" part="hoverBackground"></div></template>
+        <!--?lit$615268576$-->
+      </cr-button>
+    </div>
+  </cr-dialog>
+  <cr-action-menu id="actionMenu"><template shadowrootmode="open"><!---->
+<dialog id="dialog" part="dialog" role="application">
+  <div id="wrapper" class="item-wrapper" role="menu" tabindex="-1">
+    <slot id="contentNode"></slot>
+  </div>
+</dialog></template>
+    <button id="actionMenuEdit" class="dropdown-item" role="menuitem">
+      <!--?lit$615268576$-->
+    </button>
+    <button id="actionMenuRemove" class="dropdown-item" role="menuitem">
+      <!--?lit$615268576$-->Remove
+    </button>
+  </cr-action-menu>
+</div>
+<cr-toast-manager id="toastManager" duration="10000"><template shadowrootmode="open"><!---->
+<cr-toast id="toast"><template shadowrootmode="open"><!----><slot></slot></template>
+  <div id="content" class="elided-text"></div>
+  <slot id="slotted"></slot>
+</cr-toast></template>
+  <cr-button id="undo" aria-label="Press Ctrl+Z to undo" role="button" tabindex="0" aria-disabled="false"><template shadowrootmode="open"><!---->
+<div id="background"></div>
+<slot id="prefixIcon" name="prefix-icon">
+</slot>
+<span id="content"><slot></slot></span>
+<slot id="suffixIcon" name="suffix-icon">
+</slot>
+<div id="hoverBackground" part="hoverBackground"></div></template>
+    <!--?lit$615268576$-->Undo
+  </cr-button>
+  <cr-button id="restore" aria-label="Restore all" role="button" tabindex="0" aria-disabled="false"><template shadowrootmode="open"><!---->
+<div id="background"></div>
+<slot id="prefixIcon" name="prefix-icon">
+</slot>
+<span id="content"><slot></slot></span>
+<slot id="suffixIcon" name="suffix-icon">
+</slot>
+<div id="hoverBackground" part="hoverBackground"></div></template>
+    <!--?lit$615268576$-->Restore all
+  </cr-button>
+</cr-toast-manager>
+<!--_html_template_end_--></template></cr-most-visited>
+    <script type="module" src="chrome://new-tab-page-third-party/new_tab_page_third_party.js"></script>
+    <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">
+  
+
+</body></html>

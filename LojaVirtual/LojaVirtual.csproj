@@ -1,0 +1,537 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DA9E3EE0-97AD-4A73-98D9-5D9D6C45D7AE}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LojaVirtual</RootNamespace>
+    <AssemblyName>LojaVirtual</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort>44389</IISExpressSSLPort>
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Google.Apis, Version=1.69.0.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Apis.1.69.0\lib\net462\Google.Apis.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.Auth, Version=1.69.0.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Apis.Auth.1.69.0\lib\net462\Google.Apis.Auth.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.Calendar.v3, Version=1.69.0.3746, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Apis.Calendar.v3.1.69.0.3746\lib\net462\Google.Apis.Calendar.v3.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.Core, Version=1.69.0.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Apis.Core.1.69.0\lib\net462\Google.Apis.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Hangfire.Core, Version=1.8.18.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Hangfire.Core.1.8.18\lib\net46\Hangfire.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Hangfire.SqlServer, Version=1.8.18.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Hangfire.SqlServer.1.8.18\lib\net451\Hangfire.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp">
+      <HintPath>..\..\iTextSharp\iTextSharp\iTextSharp\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.pdfa">
+      <HintPath>..\..\iTextSharp\iTextSharp\iTextSharp\itextsharp.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.xtra">
+      <HintPath>..\..\iTextSharp\iTextSharp\iTextSharp\itextsharp.xtra.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Owin, Version=4.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Owin.4.2.2\lib\net45\Microsoft.Owin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Host.SystemWeb, Version=4.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Owin.Host.SystemWeb.4.2.2\lib\net45\Microsoft.Owin.Host.SystemWeb.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security, Version=4.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Owin.Security.4.2.2\lib\net45\Microsoft.Owin.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.Cookies, Version=4.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Owin.Security.Cookies.4.2.2\lib\net45\Microsoft.Owin.Security.Cookies.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.Google, Version=4.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Owin.Security.Google.4.2.2\lib\net45\Microsoft.Owin.Security.Google.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Owin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f0ebd12fd5e55cc5, processorArchitecture=MSIL">
+      <HintPath>..\packages\Owin.1.0\lib\net40\Owin.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Net.Http.WebRequest" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="dashboard_admin.aspx" />
+    <Content Include="dashboard_cliente.aspx" />
+    <Content Include="dashboard_prestador.aspx" />
+    <Content Include="anuncios.aspx" />
+    <Content Include="ativacao_conta.aspx" />
+    <Content Include="carrinho.aspx" />
+    <Content Include="checkout.aspx" />
+    <Content Include="criar_anuncio.aspx" />
+    <Content Include="criar_conta.aspx" />
+    <Content Include="css\ajax-loader.gif" />
+    <Content Include="css\animate.css" />
+    <Content Include="css\bootstrap-datepicker.css" />
+    <Content Include="css\bootstrap.min.css" />
+    <Content Include="css\bootstrap\bootstrap-grid.css" />
+    <Content Include="css\bootstrap\bootstrap-reboot.css" />
+    <Content Include="css\css\bootstrap-reboot.css" />
+    <Content Include="css\css\mixins\_text-hide.css" />
+    <Content Include="css\flaticon.css" />
+    <Content Include="css\jquery.timepicker.css" />
+    <Content Include="css\magnific-popup.css" />
+    <Content Include="css\owl.carousel.min.css" />
+    <Content Include="css\owl.theme.default.min.css" />
+    <Content Include="css\style.css" />
+    <Content Include="detalhes_anuncio.aspx" />
+    <Content Include="fonts\flaticon\backup.txt" />
+    <Content Include="fonts\flaticon\font\flaticon.css" />
+    <Content Include="fonts\flaticon\font\flaticon.html" />
+    <Content Include="fonts\flaticon\font\Flaticon.svg" />
+    <Content Include="home.aspx" />
+    <Content Include="icones\anuncio.png" />
+    <Content Include="icones\booked.png" />
+    <Content Include="icones\calendar.png" />
+    <Content Include="icones\cancelar %281%29.png" />
+    <Content Include="icones\cancelar.png" />
+    <Content Include="icones\confirmar.png" />
+    <Content Include="icones\confirme.png" />
+    <Content Include="icones\conversacao.png" />
+    <Content Include="icones\credit-card.png" />
+    <Content Include="icones\editar-codigo.png" />
+    <Content Include="icones\excluir.png" />
+    <Content Include="icones\historia.png" />
+    <Content Include="icones\mensagens.png" />
+    <Content Include="icones\patas %281%29.png" />
+    <Content Include="icones\perfil-de-usuario.png" />
+    <Content Include="icones\simbolo-de-logout.png" />
+    <Content Include="icones\usuario-de-perfil.png" />
+    <Content Include="images\about-1.jpg" />
+    <Content Include="images\about-2.jpg" />
+    <Content Include="images\about-3.jpg" />
+    <Content Include="images\about.jpg" />
+    <Content Include="images\avatar.jpg" />
+    <Content Include="images\bg_1.jpg" />
+    <Content Include="images\bg_2.jpg" />
+    <Content Include="images\bg_3.jpg" />
+    <Content Include="images\gallery-1.jpg" />
+    <Content Include="images\gallery-2.jpg" />
+    <Content Include="images\gallery-3.jpg" />
+    <Content Include="images\gallery-4.jpg" />
+    <Content Include="images\gallery-5.jpg" />
+    <Content Include="images\gallery-6.jpg" />
+    <Content Include="images\gallery-7.jpg" />
+    <Content Include="images\image_1.jpg" />
+    <Content Include="images\image_2.jpg" />
+    <Content Include="images\image_3.jpg" />
+    <Content Include="images\image_4.jpg" />
+    <Content Include="images\image_5.jpg" />
+    <Content Include="images\image_6.jpg" />
+    <Content Include="images\img.jpg" />
+    <Content Include="images\loc.png" />
+    <Content Include="images\person_1.jpg" />
+    <Content Include="images\person_2.jpg" />
+    <Content Include="images\person_3.jpg" />
+    <Content Include="images\person_4.jpg" />
+    <Content Include="images\pricing-1.jpg" />
+    <Content Include="images\pricing-2.jpg" />
+    <Content Include="images\pricing-3.jpg" />
+    <Content Include="images\staff-1.jpg" />
+    <Content Include="images\staff-2.jpg" />
+    <Content Include="images\staff-3.jpg" />
+    <Content Include="images\staff-4.jpg" />
+    <Content Include="images\staff-5.jpg" />
+    <Content Include="images\staff-6.jpg" />
+    <Content Include="images\staff-7.jpg" />
+    <Content Include="images\staff-8.jpg" />
+    <Content Include="inserir_pet.aspx" />
+    <Content Include="inserir_produtos.aspx" />
+    <Content Include="js\bootstrap-datepicker.js" />
+    <Content Include="js\bootstrap.min.js" />
+    <Content Include="js\google-map.js" />
+    <Content Include="js\jquery-3.2.1.min.js" />
+    <Content Include="js\jquery-migrate-3.0.1.min.js" />
+    <Content Include="js\jquery.animateNumber.min.js" />
+    <Content Include="js\jquery.easing.1.3.js" />
+    <Content Include="js\jquery.magnific-popup.min.js" />
+    <Content Include="js\jquery.min.js" />
+    <Content Include="js\jquery.stellar.min.js" />
+    <Content Include="js\jquery.timepicker.min.js" />
+    <Content Include="js\jquery.waypoints.min.js" />
+    <Content Include="js\main.js" />
+    <Content Include="js\owl.carousel.min.js" />
+    <Content Include="js\popper.min.js" />
+    <Content Include="js\scrollax.min.js" />
+    <Content Include="login.aspx" />
+    <Content Include="loja.aspx" />
+    <Content Include="perfil.aspx" />
+    <Content Include="detalhe_produto.aspx" />
+    <Content Include="prestadores.aspx" />
+    <Content Include="recuperar_pw.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="WebForm1.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="dashboard_admin.aspx.cs">
+      <DependentUpon>dashboard_admin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="dashboard_admin.aspx.designer.cs">
+      <DependentUpon>dashboard_admin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="dashboard_cliente.aspx.cs">
+      <DependentUpon>dashboard_cliente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="dashboard_cliente.aspx.designer.cs">
+      <DependentUpon>dashboard_cliente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="dashboard_prestador.aspx.cs">
+      <DependentUpon>dashboard_prestador.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="dashboard_prestador.aspx.designer.cs">
+      <DependentUpon>dashboard_prestador.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="anuncios.aspx.cs">
+      <DependentUpon>anuncios.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="anuncios.aspx.designer.cs">
+      <DependentUpon>anuncios.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ativacao_conta.aspx.cs">
+      <DependentUpon>ativacao_conta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ativacao_conta.aspx.designer.cs">
+      <DependentUpon>ativacao_conta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="carrinho.aspx.cs">
+      <DependentUpon>carrinho.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="carrinho.aspx.designer.cs">
+      <DependentUpon>carrinho.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="checkout.aspx.cs">
+      <DependentUpon>checkout.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="checkout.aspx.designer.cs">
+      <DependentUpon>checkout.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="criar_anuncio.aspx.cs">
+      <DependentUpon>criar_anuncio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="criar_anuncio.aspx.designer.cs">
+      <DependentUpon>criar_anuncio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="criar_conta.aspx.cs">
+      <DependentUpon>criar_conta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="criar_conta.aspx.designer.cs">
+      <DependentUpon>criar_conta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="detalhes_anuncio.aspx.cs">
+      <DependentUpon>detalhes_anuncio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="detalhes_anuncio.aspx.designer.cs">
+      <DependentUpon>detalhes_anuncio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="home.aspx.cs">
+      <DependentUpon>home.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="home.aspx.designer.cs">
+      <DependentUpon>home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="inserir_pet.aspx.cs">
+      <DependentUpon>inserir_pet.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="inserir_pet.aspx.designer.cs">
+      <DependentUpon>inserir_pet.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="inserir_produtos.aspx.cs">
+      <DependentUpon>inserir_produtos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="inserir_produtos.aspx.designer.cs">
+      <DependentUpon>inserir_produtos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="login.aspx.cs">
+      <DependentUpon>login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="login.aspx.designer.cs">
+      <DependentUpon>login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="loja.aspx.cs">
+      <DependentUpon>loja.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="loja.aspx.designer.cs">
+      <DependentUpon>loja.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="perfil.aspx.cs">
+      <DependentUpon>perfil.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="perfil.aspx.designer.cs">
+      <DependentUpon>perfil.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="detalhe_produto.aspx.cs">
+      <DependentUpon>detalhe_produto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="detalhe_produto.aspx.designer.cs">
+      <DependentUpon>detalhe_produto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="prestadores.aspx.cs">
+      <DependentUpon>prestadores.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="prestadores.aspx.designer.cs">
+      <DependentUpon>prestadores.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="recuperar_pw.aspx.cs">
+      <DependentUpon>recuperar_pw.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="recuperar_pw.aspx.designer.cs">
+      <DependentUpon>recuperar_pw.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Servicos\GoogleCalendarServico.cs" />
+    <Compile Include="Servicos\ServicosLembretes.cs" />
+    <Compile Include="Startup.cs" />
+    <Compile Include="Template.Master.cs">
+      <DependentUpon>Template.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Template.Master.designer.cs">
+      <DependentUpon>Template.Master</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm1.aspx.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm1.aspx.designer.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="css\.DS_Store" />
+    <Content Include="css\bootstrap\.DS_Store" />
+    <Content Include="css\css\.DS_Store" />
+    <Content Include="fonts\.DS_Store" />
+    <Content Include="fonts\flaticon\.DS_Store" />
+    <Content Include="fonts\flaticon\font\Flaticon.eot" />
+    <Content Include="fonts\flaticon\font\Flaticon.ttf" />
+    <Content Include="fonts\flaticon\font\Flaticon.woff" />
+    <Content Include="fonts\flaticon\font\Flaticon.woff2" />
+    <Content Include="fonts\flaticon\font\_flaticon.scss" />
+    <Content Include="fonts\flaticon\license\license.pdf" />
+    <Content Include="images\.DS_Store" />
+    <Content Include="js\.DS_Store" />
+    <None Include="packages.config" />
+    <Content Include="Template.Master" />
+    <Content Include="scss\.DS_Store" />
+    <Content Include="scss\bootstrap\.DS_Store" />
+    <Content Include="scss\bootstrap\bootstrap-grid.scss" />
+    <Content Include="scss\bootstrap\bootstrap-reboot.scss" />
+    <Content Include="scss\bootstrap\bootstrap.scss" />
+    <Content Include="scss\bootstrap\mixins\_alert.scss" />
+    <Content Include="scss\bootstrap\mixins\_background-variant.scss" />
+    <Content Include="scss\bootstrap\mixins\_badge.scss" />
+    <Content Include="scss\bootstrap\mixins\_border-radius.scss" />
+    <Content Include="scss\bootstrap\mixins\_box-shadow.scss" />
+    <Content Include="scss\bootstrap\mixins\_breakpoints.scss" />
+    <Content Include="scss\bootstrap\mixins\_buttons.scss" />
+    <Content Include="scss\bootstrap\mixins\_caret.scss" />
+    <Content Include="scss\bootstrap\mixins\_clearfix.scss" />
+    <Content Include="scss\bootstrap\mixins\_float.scss" />
+    <Content Include="scss\bootstrap\mixins\_forms.scss" />
+    <Content Include="scss\bootstrap\mixins\_gradients.scss" />
+    <Content Include="scss\bootstrap\mixins\_grid-framework.scss" />
+    <Content Include="scss\bootstrap\mixins\_grid.scss" />
+    <Content Include="scss\bootstrap\mixins\_hover.scss" />
+    <Content Include="scss\bootstrap\mixins\_image.scss" />
+    <Content Include="scss\bootstrap\mixins\_list-group.scss" />
+    <Content Include="scss\bootstrap\mixins\_lists.scss" />
+    <Content Include="scss\bootstrap\mixins\_nav-divider.scss" />
+    <Content Include="scss\bootstrap\mixins\_pagination.scss" />
+    <Content Include="scss\bootstrap\mixins\_reset-text.scss" />
+    <Content Include="scss\bootstrap\mixins\_resize.scss" />
+    <Content Include="scss\bootstrap\mixins\_screen-reader.scss" />
+    <Content Include="scss\bootstrap\mixins\_size.scss" />
+    <Content Include="scss\bootstrap\mixins\_table-row.scss" />
+    <Content Include="scss\bootstrap\mixins\_text-emphasis.scss" />
+    <Content Include="scss\bootstrap\mixins\_text-hide.scss" />
+    <Content Include="scss\bootstrap\mixins\_text-truncate.scss" />
+    <Content Include="scss\bootstrap\mixins\_transition.scss" />
+    <Content Include="scss\bootstrap\mixins\_visibility.scss" />
+    <Content Include="scss\bootstrap\utilities\_align.scss" />
+    <Content Include="scss\bootstrap\utilities\_background.scss" />
+    <Content Include="scss\bootstrap\utilities\_borders.scss" />
+    <Content Include="scss\bootstrap\utilities\_clearfix.scss" />
+    <Content Include="scss\bootstrap\utilities\_display.scss" />
+    <Content Include="scss\bootstrap\utilities\_embed.scss" />
+    <Content Include="scss\bootstrap\utilities\_flex.scss" />
+    <Content Include="scss\bootstrap\utilities\_float.scss" />
+    <Content Include="scss\bootstrap\utilities\_overflow.scss" />
+    <Content Include="scss\bootstrap\utilities\_position.scss" />
+    <Content Include="scss\bootstrap\utilities\_screenreaders.scss" />
+    <Content Include="scss\bootstrap\utilities\_shadows.scss" />
+    <Content Include="scss\bootstrap\utilities\_sizing.scss" />
+    <Content Include="scss\bootstrap\utilities\_spacing.scss" />
+    <Content Include="scss\bootstrap\utilities\_text.scss" />
+    <Content Include="scss\bootstrap\utilities\_visibility.scss" />
+    <Content Include="scss\bootstrap\_alert.scss" />
+    <Content Include="scss\bootstrap\_badge.scss" />
+    <Content Include="scss\bootstrap\_breadcrumb.scss" />
+    <Content Include="scss\bootstrap\_button-group.scss" />
+    <Content Include="scss\bootstrap\_buttons.scss" />
+    <Content Include="scss\bootstrap\_card.scss" />
+    <Content Include="scss\bootstrap\_carousel.scss" />
+    <Content Include="scss\bootstrap\_close.scss" />
+    <Content Include="scss\bootstrap\_code.scss" />
+    <Content Include="scss\bootstrap\_custom-forms.scss" />
+    <Content Include="scss\bootstrap\_dropdown.scss" />
+    <Content Include="scss\bootstrap\_forms.scss" />
+    <Content Include="scss\bootstrap\_functions.scss" />
+    <Content Include="scss\bootstrap\_grid.scss" />
+    <Content Include="scss\bootstrap\_images.scss" />
+    <Content Include="scss\bootstrap\_input-group.scss" />
+    <Content Include="scss\bootstrap\_jumbotron.scss" />
+    <Content Include="scss\bootstrap\_list-group.scss" />
+    <Content Include="scss\bootstrap\_media.scss" />
+    <Content Include="scss\bootstrap\_mixins.scss" />
+    <Content Include="scss\bootstrap\_modal.scss" />
+    <Content Include="scss\bootstrap\_nav.scss" />
+    <Content Include="scss\bootstrap\_navbar.scss" />
+    <Content Include="scss\bootstrap\_pagination.scss" />
+    <Content Include="scss\bootstrap\_popover.scss" />
+    <Content Include="scss\bootstrap\_print.scss" />
+    <Content Include="scss\bootstrap\_progress.scss" />
+    <Content Include="scss\bootstrap\_reboot.scss" />
+    <Content Include="scss\bootstrap\_root.scss" />
+    <Content Include="scss\bootstrap\_spinners.scss" />
+    <Content Include="scss\bootstrap\_tables.scss" />
+    <Content Include="scss\bootstrap\_toasts.scss" />
+    <Content Include="scss\bootstrap\_tooltip.scss" />
+    <Content Include="scss\bootstrap\_transitions.scss" />
+    <Content Include="scss\bootstrap\_type.scss" />
+    <Content Include="scss\bootstrap\_utilities.scss" />
+    <Content Include="scss\bootstrap\_variables.scss" />
+    <Content Include="scss\style.scss" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>62861</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>https://localhost:44389/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
